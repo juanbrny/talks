@@ -1,8 +1,8 @@
-SUSECON 2019 Nashville
+Cloud Native Rejekts Valencia
 
-Title:  TUT1131 Best Practices in Deploying SUSE CaaS Platform 
+Title: An Edge’s tale: I’m a remote Kubernetes worker node and I feel lonely out there
 
-    Date: April 2019
-    YouTube: https://www.youtube.com/watch?v=8HED8lRc4Fg
+    Date: May, 2022
+    YouTube: https://www.youtube.com/live/S07OdFshwDk?feature=share&t=25636
 
     
