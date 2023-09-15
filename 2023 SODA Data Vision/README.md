@@ -20,6 +20,8 @@ As the storage landscape continues to evolve, new technologies are emerging that
 
 - Longhorn 1.5 Demo and SPDK Benchmarks: https://youtu.be/DrwF12MOZ1w?si=e5j8cGVdT8OZICAE&t=1360
   
+- Longhorn 1.5.1 Benchmark data: https://longhorn.io/docs/1.5.1/spdk/performance-benchmark/
+  
 - A comprehensive view on Longhorn: https://www.altoros.com/blog/longhorn-provides-persistent-storage-for-35000-kubernetes-nodes/
   
 - Longhorn project metrics: https://metrics.longhorn.io
