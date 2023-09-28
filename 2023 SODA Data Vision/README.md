@@ -5,6 +5,10 @@ As the storage landscape continues to evolve, new technologies are emerging that
 
 **Date:** September 2023
 
+**Video:** 
+
+- YouTube LiveStream recording: https://www.youtube.com/live/btO0P8fEVAU?si=Sxo5hfCrf3fTkydP&t=18003
+
 **Websites:**
 
 - Website: https://www.suse.com/products/longhorn/
