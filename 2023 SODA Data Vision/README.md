@@ -7,7 +7,7 @@ As the storage landscape continues to evolve, new technologies are emerging that
 
 **Video:** 
 
-- YouTube LiveStream recording: https://www.youtube.com/live/btO0P8fEVAU?si=Sxo5hfCrf3fTkydP&t=18003
+- Session recording: [https://www.youtube.com/live/btO0P8fEVAU?si=Sxo5hfCrf3fTkydP&t=18003](https://www.youtube.com/watch?v=EcvO3ZVJhNg)
 
 **Websites:**
 
