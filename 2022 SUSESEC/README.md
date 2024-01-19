@@ -1,8 +1,8 @@
-SUSECON 2019 Nashville
+SUSESEC 2022 Madrid
 
-Title:  TUT1131 Best Practices in Deploying SUSE CaaS Platform 
+Title: El valor de las certificaciones en la estrategia de seguridad 
 
-    Date: April 2019
-    YouTube: https://www.youtube.com/watch?v=8HED8lRc4Fg
+    Date: November 2022
+    YouTube: [https://www.youtube.com/watch?v=8HED8lRc4Fg](https://www.youtube.com/watch?v=07eL_w05MpE)https://www.youtube.com/watch?v=07eL_w05MpE
 
     
