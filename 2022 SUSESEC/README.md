@@ -1,4 +1,4 @@
-SUSECON 2022 Virtual
+SUSECON 2019 Nashville
 
 Title:  TUT1131 Best Practices in Deploying SUSE CaaS Platform 
 
