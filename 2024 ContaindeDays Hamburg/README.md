@@ -8,7 +8,7 @@ In this session, we will share our experience in architecting Kubernetes environ
 
 **Video:** 
 
-- TBD
+- YouTube: https://youtu.be/1nhYdSy-VTE?si=Q74zSV2QsdL8XA9j
 
 **Websites:**
   
